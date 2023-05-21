@@ -1,0 +1,51 @@
+.fst{
+    border: 2px solid gray;
+    width: 20rem;
+    height:350px;
+    border-radius: 10%;
+    box-shadow: 2px;
+    padding: 5px;
+    margin: 4px;
+}
+img{
+    height:200px;
+    width: 200px;
+    border-radius: 10%;
+    border: 10px solid lightseagreen;
+}
+body{
+    text-align: center;
+}
+.snd{
+    border: 2px solid gray;
+    width: 20rem;
+    height:350px;
+    border-radius: 10%;
+    box-shadow: 2px;
+    padding: 5px;
+    margin: 4px;
+}
+.trd{
+    border: 2px solid gray;
+    width: 20rem;
+    height:350px;
+    border-radius: 10%;
+    box-shadow: 2px;
+    padding: 5px;
+    margin: 4px;
+
+}
+.fur{
+    border: 2px solid gray;
+    width: 20rem;
+    height:350px;
+    border-radius: 10%;
+    box-shadow: 2px;
+    padding: 5px;
+    margin: 4px;
+    animation: backwards;
+}
+.whole{
+    display: flex;
+    flex-wrap: wrap;
+}
